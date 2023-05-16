@@ -1,0 +1,14 @@
+@media (max-width:600px){
+    .box{
+        grid-template-rows: 1fr 1fr;
+        border: 1px solid lightgray;
+        padding: 10px;
+    }
+    .box:hover{
+        border: none;
+        box-shadow: 0 0 20px -15px;
+    }
+    .box-content{
+        grid-column: span 2;
+    }
+}

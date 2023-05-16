@@ -1,0 +1,15 @@
+.center{
+    text-align: center;
+}
+
+.grid{
+    display: grid;
+}
+
+.m-auto{
+    margin: 0 auto;
+}
+
+.w-80{
+    width: 80vw;
+}
